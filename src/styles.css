@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.hand {
+  display: flex;
+  margin-top: 20px;
+
+  flex-direction: column;
+}
